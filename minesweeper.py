@@ -1,6 +1,5 @@
 import random
 import sys
-import os
 
 def generate_board(gridsize):
     board = [[0] * gridsize for _ in range(gridsize)]
